@@ -5,10 +5,6 @@
   font-family: cursive;
 }
 
-body {
-  min-height: 200vh;
-}
-
 header {
   position: fixed;
   width: 100%;
@@ -116,10 +112,6 @@ h2 {
   }
 }
 
-.competences {
-  padding: 2%;
-}
-
 /* .lumiere {
   position: absolute;
   width: 20%;
@@ -132,4 +124,20 @@ h2 {
 
 main {
   background-color: rgb(187, 143, 60);
+}
+
+#html {
+  width: 75%;
+}
+#javascript {
+  width: 40%;
+}
+#adobe {
+  width: 80%;
+}
+#wordpress {
+  width: 70%;
+}
+#base {
+  width: 50%;
 }

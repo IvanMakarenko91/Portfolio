@@ -141,3 +141,12 @@ main {
 #base {
   width: 50%;
 }
+
+aside {
+  background-color: red;
+}
+
+footer {
+  background-color: black;
+  color: white;
+}

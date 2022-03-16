@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(1500)
-  .typeString('Mes qualités : ')
+  .typeString('Mes Qualités : ')
   .pauseFor(600)
   .typeString('<strong style="color:#620C0C">Exigeant</strong>')
   .pauseFor(600)
@@ -55,7 +55,7 @@ const regle = function() {
 }
 
 const regles = function() {
-  rule.innerHTML = ""; 
+  rule.innerHTML = "Evaluation d'entrainement Javascript. <br> Creation d'un jeu de dé consistant a atteindre <br> les 100 points en premier.</div>"; 
 }
 
 dice.addEventListener('mouseenter',regle)

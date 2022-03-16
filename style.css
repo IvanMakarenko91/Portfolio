@@ -157,3 +157,29 @@ footer {
   background-color: rgb(54, 51, 51);
   color: white;
 }
+
+/* #about::before {
+  content: "";
+  animation: quality infinite 10s;
+}
+
+@keyframes quality {
+  0% {
+    content: "patient";
+  }
+  20% {
+    content: "curieux";
+  }
+  40% {
+    content: "soucieux";
+  }
+  60% {
+    content: "motivé";
+  }
+  80% {
+    content: "passionné";
+  }
+  100% {
+    content: "exigeant";
+  }
+} */

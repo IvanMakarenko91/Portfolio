@@ -172,3 +172,15 @@ footer {
     display: none;
   }
 }
+
+@media (max-width: 1275px) {
+  header {
+    display: none;
+  }
+}
+
+@media (min-width: 1276px) {
+  .navbar {
+    display: none;
+  }
+}

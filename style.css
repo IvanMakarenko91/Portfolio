@@ -160,3 +160,15 @@ footer {
 #eval-boot {
   transition: 0.5s;
 }
+
+@media (min-width: 622px) {
+  #aside-two {
+    display: none;
+  }
+}
+
+@media (max-width: 621px) {
+  #aside-one {
+    display: none;
+  }
+}
